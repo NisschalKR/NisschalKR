@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nisschal KR</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🌱 I’m currently learning **React js,AWS,Flutter**
+- 🌱 I’m currently learning **React js,Springboot,Flutter,Firebase**
 
-- 💬 Ask me about **Azure,Vuejs,Django,Bootstrap,CSS,HTML**
+- 💬 Ask me about **Azure,AWS,Git,Github,Gitlab,Django,Java,Javascript,CSS,HTML,Vuejs,SQL,**
 
 - 📫 How to reach me **nisschalkr@gmail.com**
 
